@@ -14,3 +14,9 @@
 > Sociable, sociable, since the work experience was in the field of sales, it is easy to find a common language with a person.
 
 > The level of English is weak.
+
+## Skills and Proficiency:
+
+* Html
+
+* Css
